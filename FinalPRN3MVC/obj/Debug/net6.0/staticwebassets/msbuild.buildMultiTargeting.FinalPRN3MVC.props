@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FinalPRN3MVC.props" />
+</Project>
